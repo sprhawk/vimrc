@@ -22,3 +22,9 @@
 [submodule "bundle/vim-vue"]
 	path = bundle/vim-vue
 	url = https://github.com/posva/vim-vue.git
+[submodule "bundle/vimprj"]
+	path = bundle/vimprj
+	url = git@github.com:vim-scripts/vimprj.git
+[submodule "bundle/vim-dfutil"]
+	path = bundle/vim-dfutil
+	url = git@github.com:vim-scripts/DfrankUtil.git
