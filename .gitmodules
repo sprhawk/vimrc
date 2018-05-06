@@ -28,3 +28,6 @@
 [submodule "bundle/vim-dfutil"]
 	path = bundle/vim-dfutil
 	url = git@github.com:vim-scripts/DfrankUtil.git
+[submodule "bundle/rust.vim"]
+	path = bundle/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
