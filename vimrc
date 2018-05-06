@@ -44,3 +44,5 @@ map <C-n> :NERDTreeToggle<CR>
 let NERDTreeShowLineNumbers=1
 
 set laststatus=2
+
+let g:rustfmt_autosave=1
